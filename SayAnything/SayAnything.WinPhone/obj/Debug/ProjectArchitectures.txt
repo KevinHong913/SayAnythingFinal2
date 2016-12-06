@@ -1,0 +1,2 @@
+C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnythingFinal-master\SayAnything\SayAnything.WinPhone\SayAnything.WinPhone.csproj;neutral
+C:\Users\yuxia\Documents\Visual Studio 2015\Projects\SayAnythingFinal-master\SayAnything\SayAnything\SayAnything.csproj;neutral

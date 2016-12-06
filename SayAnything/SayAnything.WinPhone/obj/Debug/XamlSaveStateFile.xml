@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanything\sayanything\sayanything.winphone\obj\debug\intermediatexaml\sayanything.winphone.exe" HashGuid="f860a4b6-510a-560c-584f-de478fa28306" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\sayanything\sayanything\bin\debug\sayanything.dll" HashGuid="a25a1f18-bf6e-e58b-82ad-83043d94f3ea" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.core.dll" HashGuid="8fd6d715-5b1e-67fd-feee-b3bb9cc9acd7" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="c:\users\yuxia\documents\visual studio 2015\projects\sayanythingfinal-master\packages\xamarin.forms.2.3.3.168\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="5a0f8f23-7317-5e4b-74d2-2bf18c289c53" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
